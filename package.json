@@ -32,5 +32,8 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "volta": {
+    "node": "16.19.0"
   }
 }
