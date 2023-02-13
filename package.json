@@ -34,6 +34,7 @@
     "preset": "react-native"
   },
   "volta": {
-    "node": "16.19.0"
+    "node": "16.19.0",
+    "yarn": "3.4.1"
   }
 }
